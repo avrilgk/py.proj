@@ -1,7 +1,7 @@
 # binary search algorithm 
 
 #naive search vs binary search
-#naive: scan entire list, ask if equal to target -- iteration 
+#naive: scan entire list, ask if equal to target
 
 import random
 import time
